@@ -13,5 +13,5 @@ More information can be found at <http://www.nocircleno.com/graffiti/>
 
 ## Documentation
 
-[Online AS Docs](http://htmlpreview.github.com/?https://github.com/benrhodes/graffiti-as3-drawing-lib/blob/v3.0beta/docs/3.0/index.html "Online AS Docs")
+[Online AS Docs](http://www.nocircleno.com/graffiti/docs/3.0/ "Online AS Docs")
 
